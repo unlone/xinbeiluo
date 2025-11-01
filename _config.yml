@@ -2,9 +2,8 @@
 markdown: kramdown
 
 # URL of the Site
-url: '/'
-# Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: https://unlone.github.io/xinbeiluo
+url: https://unlone.github.io
+baseurl: /xinbeiluo
 
 # Title of the Site
 title: Xinbei Luo
@@ -95,5 +94,6 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
 
 
